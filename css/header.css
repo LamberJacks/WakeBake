@@ -18,6 +18,7 @@
 .header__top-inner{
   display: flex;
   align-items: flex-end;
+  justify-content: space-between;
 }
 
 .nav__list{
